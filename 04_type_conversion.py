@@ -33,3 +33,11 @@ print("Integer:", converted_int)
 print("String:", converted_string)
 
 # --------------------------------------------------------
+
+# Q2. A product price is stored as the string:
+#
+#     "1299.50"
+#
+#     Convert it into a float and calculate the price
+#     after adding 100 PKR.
+
