@@ -18,3 +18,18 @@ Topics: Type Conversion, Type Casting, Implicit and
 #     250      → string
 #
 #     Print each converted value.
+
+
+number1 = 45
+number2 = 78.9
+number3 = 250
+
+converted_float = float(number1)
+converted_int = int(number2)
+converted_string = str(number3)
+
+print("Float:", converted_float)
+print("Integer:", converted_int)
+print("String:", converted_string)
+
+# --------------------------------------------------------
