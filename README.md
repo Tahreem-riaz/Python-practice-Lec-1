@@ -43,7 +43,6 @@ The lecture focuses on the fundamental concepts needed to start writing basic Py
 - `bool()`
 
 ---
----
 
 ## 📂 Practice Files
 
