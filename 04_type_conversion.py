@@ -104,6 +104,16 @@ print("Converted Temperature:", temperature_integer)
 # PART C: BOOLEAN CONVERSION
 # ========================================================
 
+# Q6. Find the Boolean result of the following values:
+#
+#     0
+#     1
+#     -1
+#     ""
+#     "Python"
+#
+#     Use bool() and print every result.
+
 
 
 
