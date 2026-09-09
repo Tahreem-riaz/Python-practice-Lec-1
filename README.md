@@ -58,15 +58,41 @@ lecture-01/
 
 ```text
 
-File Description
-File	                 Description
-01_fundamentals.py	     Practice with character sets, variables, and identifiers
-02_data_types.py	     Practice with Python's basic data types
-03_operators.py	         Practice with different types of operators
-04_type_conversion.py	 Practice with type conversion and casting
-05_mini_project.py	     A small project combining concepts from the lecture
+## 📂 Practice Files
 
-```text
+<h2>📂 Practice Files</h2>
+
+<table border="1">
+    <tr>
+        <th>File</th>
+        <th>Topic</th>
+    </tr>
+
+    <tr>
+        <td><a href="01_fundamentals.py">01_fundamentals.py</a></td>
+        <td>Character Set, Variables, Identifiers</td>
+    </tr>
+
+    <tr>
+        <td><a href="02_data_types.py">02_data_types.py</a></td>
+        <td>Data Types, Type Identification</td>
+    </tr>
+
+    <tr>
+        <td><a href="03_operators.py">03_operators.py</a></td>
+        <td>Arithmetic, Comparison, Assignment, Logical, Membership, Identity, Bitwise Operators</td>
+    </tr>
+
+    <tr>
+        <td><a href="04_type_conversion.py">04_type_conversion.py</a></td>
+        <td>Type Conversion, Type Casting, Implicit &amp; Explicit Conversion</td>
+    </tr>
+
+    <tr>
+        <td><a href="05_mini_project.py">05_mini_project.py</a></td>
+        <td>Personal Budget Calculator — Variables, Data Types, Operators, Type Conversion, User Input</td>
+    </tr>
+</table>
 
 Learning Goals
 
