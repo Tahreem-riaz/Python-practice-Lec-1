@@ -49,10 +49,10 @@ The lecture focuses on the fundamental concepts needed to start writing basic Py
 
 | File | Topics | Questions |
 | :--- | :--- | :---: |
-| [`01_fundamentals.py`](01_fundamentals.py) | Character Set, Variables, Identifiers | `12` |
-| [`02_data_types.py`](02_data_types.py) | Data Types, Type Identification | `12` |
-| [`03_operators.py`](03_operators.py) | Arithmetic, Comparison, Assignment, Logical, Membership, Identity, Bitwise Operators | `12` |
-| [`04_type_conversion.py`](04_type_conversion.py) | Type Conversion, Type Casting, Implicit & Explicit Conversion | `10` |
+| [`01_fundamentals.py`](01_fundamentals.py) | Character Set, Variables, Identifiers | `10` |
+| [`02_data_types.py`](02_data_types.py) | Data Types, Type Identification | `8` |
+| [`03_operators.py`](03_operators.py) | Arithmetic, Comparison, Assignment, Logical, Membership, Identity, Bitwise Operators | `5` |
+| [`04_type_conversion.py`](04_type_conversion.py) | Type Conversion, Type Casting, Implicit & Explicit Conversion | `8` |
 | [`05_mini_project.py`](05_mini_project.py) | Personal Budget Calculator | `Mini Project` |
 
 ---
