@@ -30,9 +30,6 @@ The lecture focuses on the fundamental concepts needed to start writing basic Py
 - Comparison Operators
 - Assignment Operators
 - Logical Operators
-- Membership Operators
-- Identity Operators
-- Bitwise Operators
 
 ### 4. Type Conversion & Casting
 - Implicit Type Conversion
