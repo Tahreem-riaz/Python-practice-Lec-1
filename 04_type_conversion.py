@@ -126,6 +126,12 @@ print('bool("Python"):', bool("Python"))
 # PART D: USER INPUT & CONVERSION
 # ========================================================
 
+# Q8. Ask the user to enter the number of hours they
+#     studied today.
+#
+#     Convert the input into an integer.
+#
+#     Print how many minutes they studied.
 
 
 
