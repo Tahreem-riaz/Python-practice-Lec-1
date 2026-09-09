@@ -78,6 +78,15 @@ print("New Score:", new_score)
 #     Example idea:
 #     "The current year is ..."
 
+year = 2026
+
+year_string = str(year)
+sentence = "The current year is " + year_string
+
+print(sentence)
+
+# --------------------------------------------------------
+
 
 
 
