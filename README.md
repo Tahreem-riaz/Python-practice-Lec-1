@@ -56,3 +56,13 @@ lecture-01/
 ├── 04_type_conversion.py
 └── 05_mini_project.py
 
+```text
+
+File Description
+File	                 Description
+01_fundamentals.py	     Practice with character sets, variables, and identifiers
+02_data_types.py	     Practice with Python's basic data types
+03_operators.py	         Practice with different types of operators
+04_type_conversion.py	 Practice with type conversion and casting
+05_mini_project.py	     A small project combining concepts from the lecture
+
