@@ -62,37 +62,15 @@ lecture-01/
 
 <h2>📂 Practice Files</h2>
 
-<table border="1">
-    <tr>
-        <th>File</th>
-        <th>Topic</th>
-    </tr>
+## 📂 Practice Files
 
-    <tr>
-        <td><a href="01_fundamentals.py">01_fundamentals.py</a></td>
-        <td>Character Set, Variables, Identifiers</td>
-    </tr>
-
-    <tr>
-        <td><a href="02_data_types.py">02_data_types.py</a></td>
-        <td>Data Types, Type Identification</td>
-    </tr>
-
-    <tr>
-        <td><a href="03_operators.py">03_operators.py</a></td>
-        <td>Arithmetic, Comparison, Assignment, Logical, Membership, Identity, Bitwise Operators</td>
-    </tr>
-
-    <tr>
-        <td><a href="04_type_conversion.py">04_type_conversion.py</a></td>
-        <td>Type Conversion, Type Casting, Implicit &amp; Explicit Conversion</td>
-    </tr>
-
-    <tr>
-        <td><a href="05_mini_project.py">05_mini_project.py</a></td>
-        <td>Personal Budget Calculator — Variables, Data Types, Operators, Type Conversion, User Input</td>
-    </tr>
-</table>
+| File | Topics | Questions |
+|------|--------|-----------|
+| [01_fundamentals.py](01_fundamentals.py) | Character Set, Variables, Identifiers | 12 |
+| [02_data_types.py](02_data_types.py) | Data Types, Type Identification | 12 |
+| [03_operators.py](03_operators.py) | Arithmetic, Comparison, Assignment, Logical, Membership, Identity, Bitwise Operators | 12 |
+| [04_type_conversion.py](04_type_conversion.py) | Type Conversion, Type Casting, Implicit & Explicit Conversion | 10 |
+| [05_mini_project.py](05_mini_project.py) | Personal Budget Calculator | Mini Project |
 
 Learning Goals
 
