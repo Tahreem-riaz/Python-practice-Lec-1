@@ -100,6 +100,9 @@ temperature_integer = int(temperature)
 print("Original Temperature:", temperature)
 print("Converted Temperature:", temperature_integer)
 
+# ========================================================
+# PART C: BOOLEAN CONVERSION
+# ========================================================
 
 
 
