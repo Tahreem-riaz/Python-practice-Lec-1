@@ -41,3 +41,12 @@ print("String:", converted_string)
 #     Convert it into a float and calculate the price
 #     after adding 100 PKR.
 
+product_price = "1299.50"
+
+product_price = float(product_price)
+new_price = product_price + 100
+
+print("New Price:", new_price, "PKR")
+
+# --------------------------------------------------------
+
