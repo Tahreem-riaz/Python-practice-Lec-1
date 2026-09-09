@@ -70,4 +70,17 @@ remaining_money = monthly_budget - total_expenses
 
 print("Remaining Money:", remaining_money, "PKR")
 
+# --------------------------------------------------------
+# STEP 4: CALCULATE EXPENSE PERCENTAGE
+# --------------------------------------------------------
+
+# Calculate what percentage of the budget has been spent.
+
+
+# Write your code below:
+
+expense_percentage = (total_expenses / monthly_budget) * 100
+
+print("Expense Percentage:", expense_percentage, "%")
+
 
