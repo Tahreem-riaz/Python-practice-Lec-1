@@ -70,6 +70,14 @@ print("New Score:", new_score)
 # PART B: STRING CONVERSION
 # ========================================================
 
+# Q4. Create an integer containing a year.
+#
+#     Convert the year into a string and combine it
+#     with another string to create a sentence.
+#
+#     Example idea:
+#     "The current year is ..."
+
 
 
 
