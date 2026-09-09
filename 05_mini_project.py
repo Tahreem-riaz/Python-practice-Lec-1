@@ -83,4 +83,21 @@ expense_percentage = (total_expenses / monthly_budget) * 100
 
 print("Expense Percentage:", expense_percentage, "%")
 
+# --------------------------------------------------------
+# STEP 5: ANALYZE THE BUDGET
+# --------------------------------------------------------
+
+# Create conditions to determine:
+#
+# - Whether the user stayed within the budget.
+# - Whether more than 80% of the budget was spent.
+# - Whether money is still available.
+
+
+# Write your code below:
+
+within_budget = total_expenses <= monthly_budget
+more_than_80_percent = expense_percentage > 80
+money_available = remaining_money > 0
+
 
