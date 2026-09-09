@@ -50,3 +50,11 @@ print("New Price:", new_price, "PKR")
 
 # --------------------------------------------------------
 
+# Q3. A player's score is stored as:
+#
+#     score = "875"
+#
+#     Convert it into an integer and add 125 points.
+#
+#     Print the new score.
+
