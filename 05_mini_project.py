@@ -100,4 +100,46 @@ within_budget = total_expenses <= monthly_budget
 more_than_80_percent = expense_percentage > 80
 money_available = remaining_money > 0
 
+# --------------------------------------------------------
+# STEP 6: DISPLAY THE RESULT
+# --------------------------------------------------------
+
+# Display a clean budget report containing:
+#
+# - User name
+# - Monthly budget
+# - Total expenses
+# - Remaining amount
+# - Percentage spent
+# - Budget status
+
+
+# Write your code below:
+
+print()
+print("=" * 50)
+print("             BUDGET REPORT")
+print("=" * 50)
+
+print("Name:", name)
+print("Monthly Budget:", monthly_budget, "PKR")
+print("Total Expenses:", total_expenses, "PKR")
+print("Remaining Amount:", remaining_money, "PKR")
+print("Percentage Spent:", expense_percentage, "%")
+
+if within_budget:
+    print("Budget Status: Within Budget")
+else:
+    print("Budget Status: Budget Exceeded")
+
+if more_than_80_percent:
+    print("Warning: More than 80% of your budget has been spent.")
+
+if money_available:
+    print("Money is still available.")
+else:
+    print("No money is remaining.")
+
+print("=" * 50)
+
 
