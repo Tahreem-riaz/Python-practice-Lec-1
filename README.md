@@ -39,5 +39,18 @@ The lecture focuses on the fundamental concepts needed to start writing basic Py
 - `str()`
 - `bool()`
 
+## 📂 Repository Structure
+
+lecture-01/
+│
+├── README.md
+│
+├── 01_fundamentals.py
+├── 02_data_types.py
+├── 03_operators.py
+├── 04_type_conversion.py
+│
+└── 05_mini_project.py
+
 
 
