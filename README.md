@@ -7,7 +7,37 @@ This repository contains my practice work for **Lecture 01 of my Python learning
 
 The lecture focuses on the fundamental concepts needed to start writing basic Python programs, including variables, data types, operators, and type conversion.
 
+## Topics Covered
 
+### 1. Python Fundamentals
+- Python Character Set
+- Variables
+- Rules of Identifiers
+
+### 2. Data Types
+- Integer (`int`)
+- Floating Point (`float`)
+- String (`str`)
+- Boolean (`bool`)
+- Complex (`complex`)
+- Checking data types using `type()`
+
+### 3. Operators
+- Arithmetic Operators
+- Comparison Operators
+- Assignment Operators
+- Logical Operators
+- Membership Operators
+- Identity Operators
+- Bitwise Operators
+
+### 4. Type Conversion & Casting
+- Implicit Type Conversion
+- Explicit Type Conversion
+- `int()`
+- `float()`
+- `str()`
+- `bool()`
 
 
 
