@@ -143,3 +143,22 @@ else:
 print("=" * 50)
 
 
+# --------------------------------------------------------
+# STEP 7: EXTRA CHALLENGE
+# --------------------------------------------------------
+
+# Improve your program by adding ONE or more features:
+#
+# - Add another expense category.
+# - Calculate the average expense.
+# - Add a savings target.
+# - Tell the user how much they can still spend.
+# - Display a warning when the budget is exceeded.
+#
+# Try to implement the improvement yourself.
+
+# Extra feature: Calculate average expense
+
+average_expense = total_expenses / 3
+
+print("Average Expense:", average_expense, "PKR")
