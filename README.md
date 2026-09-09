@@ -66,3 +66,64 @@ File	                 Description
 04_type_conversion.py	 Practice with type conversion and casting
 05_mini_project.py	     A small project combining concepts from the lecture
 
+```text
+
+Learning Goals
+
+By completing this lecture, I aim to understand how to:
+
+Create and use variables
+Follow Python identifier rules
+Recognize common Python data types
+Check the type of a value
+Perform operations using Python operators
+Compare and manipulate values
+Convert values between different data types
+Combine these concepts to create simple Python programs
+
+```text
+Practice Approach
+The programs in this lecture are designed for practice rather than simply memorizing syntax.
+
+My approach is:
+
+Understand the concept
+Attempt the problem myself
+Run and test the program
+Experiment by changing values
+Fix errors and understand why they occurred
+
+
+```text
+Mini Project
+
+The final file combines the concepts learned throughout the lecture into a small practical Python program.
+
+File: 05_mini_project.py
+
+Project: Personal Budget Calculator
+
+The mini project uses:
+
+Variables
+Data Types
+Arithmetic Operators
+Comparison Operators
+Logical Operators
+Type Conversion
+User Input
+
+The program calculates total expenses, remaining money, expense percentage, and budget status.
+
+```text
+
+📈 Learning Progress
+✅ Lecture 01 — Python Fundamentals
+⬜ Lecture 02
+⬜ Lecture 03
+⬜ Lecture 04
+⬜ Lecture 05
+⬜ Lecture 06
+⬜ Lecture 07
+⬜ Lecture 08
+⬜ Lecture 09
