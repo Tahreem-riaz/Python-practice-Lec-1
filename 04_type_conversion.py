@@ -145,3 +145,13 @@ print("You studied", minutes, "minutes.")
 # ========================================================
 # PART E: IMPLICIT CONVERSION
 # ========================================================
+
+# Q8. Create one integer and one float.
+#
+#      Add them together and store the result.
+#
+#      Print:
+#      - The result
+#      - The data type of the result
+#
+#      Observe what Python does automatically.
