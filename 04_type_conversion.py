@@ -58,3 +58,14 @@ print("New Price:", new_price, "PKR")
 #
 #     Print the new score.
 
+score = "875"
+
+score = int(score)
+new_score = score + 125
+
+print("New Score:", new_score)
+
+
+
+
+
