@@ -155,3 +155,14 @@ print("You studied", minutes, "minutes.")
 #      - The data type of the result
 #
 #      Observe what Python does automatically.
+
+integer_number = 10
+float_number = 5.5
+
+result = integer_number + float_number
+
+print("Result:", result)
+print("Data Type:", type(result))
+
+# Python automatically converts the integer into a float
+# when adding it to a float. This is called implicit conversion.
