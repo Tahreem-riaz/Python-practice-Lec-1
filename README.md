@@ -43,91 +43,65 @@ The lecture focuses on the fundamental concepts needed to start writing basic Py
 - `bool()`
 
 ---
-
-## Repository Structure
-
-```text
-lecture-01/
-│
-├── README.md
-├── 01_fundamentals.py
-├── 02_data_types.py
-├── 03_operators.py
-├── 04_type_conversion.py
-└── 05_mini_project.py
-
-```text
-
-## 📂 Practice Files
-
-<h2>📂 Practice Files</h2>
+---
 
 ## 📂 Practice Files
 
 | File | Topics | Questions |
-|------|--------|-----------|
-| [01_fundamentals.py](01_fundamentals.py) | Character Set, Variables, Identifiers | 12 |
-| [02_data_types.py](02_data_types.py) | Data Types, Type Identification | 12 |
-| [03_operators.py](03_operators.py) | Arithmetic, Comparison, Assignment, Logical, Membership, Identity, Bitwise Operators | 12 |
-| [04_type_conversion.py](04_type_conversion.py) | Type Conversion, Type Casting, Implicit & Explicit Conversion | 10 |
-| [05_mini_project.py](05_mini_project.py) | Personal Budget Calculator | Mini Project |
+| :--- | :--- | :---: |
+| [`01_fundamentals.py`](01_fundamentals.py) | Character Set, Variables, Identifiers | `12` |
+| [`02_data_types.py`](02_data_types.py) | Data Types, Type Identification | `12` |
+| [`03_operators.py`](03_operators.py) | Arithmetic, Comparison, Assignment, Logical, Membership, Identity, Bitwise Operators | `12` |
+| [`04_type_conversion.py`](04_type_conversion.py) | Type Conversion, Type Casting, Implicit & Explicit Conversion | `10` |
+| [`05_mini_project.py`](05_mini_project.py) | Personal Budget Calculator | `Mini Project` |
 
-Learning Goals
+---
 
-By completing this lecture, I aim to understand how to:
+## 🎯 Learning Goals
 
-Create and use variables
-Follow Python identifier rules
-Recognize common Python data types
-Check the type of a value
-Perform operations using Python operators
-Compare and manipulate values
-Convert values between different data types
-Combine these concepts to create simple Python programs
+By completing this lecture, you will learn how to:
 
-```text
-Practice Approach
-The programs in this lecture are designed for practice rather than simply memorizing syntax.
+- [x] Create and use variables
+- [x] Follow Python identifier rules
+- [x] Recognize common Python data types & check value types
+- [x] Perform operations using Python operators
+- [x] Compare and manipulate values
+- [x] Convert values between different data types (Implicit & Explicit)
+- [x] Combine these concepts into simple Python programs
 
-My approach is:
+---
 
-Understand the concept
-Attempt the problem myself
-Run and test the program
-Experiment by changing values
-Fix errors and understand why they occurred
+## 💡 Practice Approach
 
+> **Focus on problem-solving over syntax memorization.**
 
-```text
-Mini Project
+1. **Understand** the core concept.
+2. **Attempt** solving the problem independently.
+3. **Run & Test** the program in your terminal.
+4. **Experiment** by modifying values and inputs.
+5. **Debug** errors to understand why they occurred.
 
-The final file combines the concepts learned throughout the lecture into a small practical Python program.
+---
 
-File: 05_mini_project.py
+## 🚀 Mini Project Overview
 
-Project: Personal Budget Calculator
+### 💰 Personal Budget Calculator (`05_mini_project.py`)
 
-The mini project uses:
+The final file integrates all lecture concepts into an interactive program that evaluates personal finances.
 
-Variables
-Data Types
-Arithmetic Operators
-Comparison Operators
-Logical Operators
-Type Conversion
-User Input
+- **Key Concepts Used:** Variables, Data Types, Arithmetic/Comparison/Logical Operators, Type Conversion, and User Input (`input()`).
+- **Functionality:** Calculates total expenses, remaining balance, expense percentages, and overall budget status.
 
-The program calculates total expenses, remaining money, expense percentage, and budget status.
+---
 
-```text
+## 📈 Learning Progress
 
-📈 Learning Progress
-✅ Lecture 01 — Python Fundamentals
-⬜ Lecture 02
-⬜ Lecture 03
-⬜ Lecture 04
-⬜ Lecture 05
-⬜ Lecture 06
-⬜ Lecture 07
-⬜ Lecture 08
-⬜ Lecture 09
+- [x] **Lecture 01** — Python Fundamentals
+- [ ] **Lecture 02** — Pending
+- [ ] **Lecture 03** — Pending
+- [ ] **Lecture 04** — Pending
+- [ ] **Lecture 05** — Pending
+- [ ] **Lecture 06** — Pending
+- [ ] **Lecture 07** — Pending
+- [ ] **Lecture 08** — Pending
+- [ ] **Lecture 09** — Pending
