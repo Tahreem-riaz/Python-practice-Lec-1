@@ -87,6 +87,12 @@ print(sentence)
 
 # --------------------------------------------------------
 
+# Q5. Create a float containing a temperature.
+#
+#     Convert it into an integer.
+#
+#     Print both the original and converted values.
+
 
 
 
