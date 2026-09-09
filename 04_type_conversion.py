@@ -114,6 +114,14 @@ print("Converted Temperature:", temperature_integer)
 #
 #     Use bool() and print every result.
 
+print("bool(0):", bool(0))
+print("bool(1):", bool(1))
+print("bool(-1):", bool(-1))
+print('bool(""):', bool(""))
+print('bool("Python"):', bool("Python"))
+
+# --------------------------------------------------------
+
 
 
 
